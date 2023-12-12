@@ -5,6 +5,10 @@
 - Please see the following link for the repository draft for this project.
 - You can see here the complete development of our project.
 
+### P.S 
+
+- WE FIRST CREATED HOTEL MANAGEMENT SYSTEM BUT DUE TO SOME FUNCTIONS THAT ARE NOT WORKING, WE, OUR TEAM, DECIDED TO SWITCH TO ANOTHER PROJECT IN ORDER FOR US TO HAVE A FINAL REQUIREMENT FOR OUR INSTRUCTORS. THANK YOU FOR YOUR CONSIDERATION.
+  
 ### CONTENTS 
 - Add Employee Record 
 - Display Employee Record

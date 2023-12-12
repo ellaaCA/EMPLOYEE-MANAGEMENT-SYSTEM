@@ -8,7 +8,6 @@
 ### CONTENTS 
 - Add Employee Record 
 - Display Employee Record
-- Update Employee Record 
 - Promote Employee Record 
 - Remove Employee Record 
 - Search Employee Record
